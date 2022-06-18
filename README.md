@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://62ad7c1fd9b48a4666d4361b--beamish-dolphin-f79e01.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://62ad7c1fd9b48a4666d4361b--beamish-dolphin-f79e01.netlify.app/">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="https://62ad7c1fd9b48a4666d4361b--beamish-dolphin-f79e01.netlify.app/">
       Challenge
     </a>
   </h3>
@@ -26,32 +26,28 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Overview](#overview gallery profile)
+  - [Built With](#built-with HTML&CSS )
+- [Features](#features Grid Layo
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](![62ad7c1fd9b48a4666d4361b--beamish-dolphin-f79e01 netlify app_](https://user-images.githubusercontent.com/52867161/174427479-6096fdd3-60d1-42a8-809b-ab0744f3b29a.png))
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo?https://62ad7c1fd9b48a4666d4361b--beamish-dolphin-f79e01.netlify.app/
+- What was your experience?greate
+- What have you learned/improved?grid leyout
+- Your wisdom? trust  the process:)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+
 
 ## Features
 
@@ -60,16 +56,13 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
 
 
-## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+
+
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- linkedin [raghad Almughidi](https://www.linkedin.com/in/raghad-almughidi/)
+- GitHub [@rdmug1421](https://github.com/rdmug1421)
+- Twitter [@rd_mug](https://twitter.com/Rd_mug)
